@@ -1,5 +1,6 @@
 ---
-name: About Awake
-image: /logo.svg
+name: About
+image: uploads/money.jpg
+description: Hello world
 ---
-All about the Awake Nuxt Template
+
